@@ -81,7 +81,7 @@
     "rimraf": "3.0.0",
     "sinon": "7.4.1",
     "thread-loader": "2.1.2",
-    "ts-jest": "24.0.2",
+    "ts-jest": "24.3.0",
     "ts-loader": "6.0.4",
     "typescript": "3.7.4",
     "webpack": "4.41.5",
